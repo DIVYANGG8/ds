@@ -2,3 +2,4 @@ discord.py==2.4.0       # Discord library for bot functionality
 python-dotenv==1.0.0    # For managing .env files securely
 aiohttp==3.8.5          # For making asynchronous HTTP requests
 asyncio                 # For asynchronous task handling (comes with Python, but safe to include)
+cachetools
